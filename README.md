@@ -23,7 +23,7 @@ For ongoing log parsing, aggregating, filtering and reporting, below widely popu
 
 # Gradle Commands
 
-Following `gradle` commands can be executed to build, test & run the utility classes. Change the working directory to the root directory `\log-parser` project on the command line interface then execute resepctive commands.
+Following `gradle` commands can be executed to build, test & run the utility classes. Change the working directory to the root directory `\HTTPLogParser` project on the command line interface then execute resepctive commands.
 
 ### Build the Executable
 
